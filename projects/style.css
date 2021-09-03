@@ -1,0 +1,40 @@
+
+img {
+	
+	border-radius: 80%;
+	
+}
+
+body{
+	background-color: #072231;
+	color: hsl(227, 72%, 89%);
+	text-transform: uppercase;
+}
+.c1{
+	padding-bottom: 20px;
+}
+.c2{
+	padding-bottom: 20px;
+}
+.c3{
+	padding-bottom:20px;
+}
+.c4{
+	padding-bottom: 40px;
+	text-align: 50%;
+	
+}
+ul
+{
+list-style-type: none;
+padding: 0;
+margin: 0;
+text-align: right;
+}
+
+li
+{
+background-repeat: no-repeat;
+background-position: 100% .4em;
+padding-right: .6em;
+}
